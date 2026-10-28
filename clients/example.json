@@ -1,5 +1,6 @@
 {
   "name": "Example Plumbing Co",
+  "slug": "example-plumbing",
   "domain": "exampleplumbing.com",
   "maps_name": "Example Plumbing Co",
   "place_id": "",
@@ -19,5 +20,28 @@
     "keywords": ["plumber"],
     "size": 5,
     "step_miles": 2
+  },
+  "ai_answers": {
+    "models": {
+      "gemini": "gemini-3.5-flash",
+      "chat_gpt": "gpt-5.5"
+    },
+    "questions": [
+      "Who is the best plumber in Bentonville, Arkansas?",
+      "Who can fix a water heater today in Northwest Arkansas?"
+    ],
+    "match_names": ["Example Plumbing Co", "Example Plumbing"],
+    "match_domains": ["exampleplumbing.com"]
+  },
+  "report": {
+    "keyword_groups": {
+      "Main service": ["plumber", "emergency plumber"],
+      "Specific jobs": ["water heater repair", "drain cleaning", "leak detection"]
+    },
+    "landmarks": [
+      {"label": "Bentonville", "lat": 36.3729, "lng": -94.2088}
+    ],
+    "track_names": ["Example Plumbing Co"],
+    "hide_sources": []
   }
 }

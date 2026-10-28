@@ -4,6 +4,7 @@ Small Python scripts that check how a local business shows up on Google, using t
 
 - **`rank_check.py`**: where the business ranks for each keyword, in the regular results and the Maps pack, searched from a phone in its own city.
 - **`heat_map.py`**: a grid of Maps searches across the service area, showing where the business makes the top 3 and who beats it where it doesn't.
+- **`maps_competitors.py`**: one Maps search from the business, keeping the top listings with ratings, review counts and categories.
 - **`ai_answers.py`**: asks ChatGPT and Gemini buyer-style questions with web search on, and records whether they name and cite the business.
 - **`site_audit.py`**: a DataForSEO On-Page crawl of the website: broken pages and links, duplicate titles, missing titles and descriptions.
 - **`crawl_site.py`**: the same basics checked from your own computer, free. Use it when a site blocks hosted crawlers.
@@ -44,6 +45,7 @@ python3 rank_check.py clients/my-client.json --dry-run   # plan and estimated co
 python3 rank_check.py clients/my-client.json
 python3 heat_map.py clients/my-client.json --size 3      # quick 3x3 check
 python3 heat_map.py clients/my-client.json
+python3 maps_competitors.py clients/my-client.json --dry-run
 python3 ai_answers.py clients/my-client.json --max-spend 0.20 --dry-run
 python3 site_audit.py clients/my-client.json --max-pages 300 --dry-run   # cap a little above the sitemap's page count
 python3 crawl_site.py clients/my-client.json --limit 5                    # free; drop --limit for the whole sitemap

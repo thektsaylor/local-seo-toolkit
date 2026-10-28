@@ -1,0 +1,2644 @@
+{
+ "client": {
+  "name": "OZK Customs",
+  "domain": "ozkcustoms.com",
+  "maps_name": "OZK Customs",
+  "center": {
+   "lat": 36.045573,
+   "lng": -94.0721799,
+   "label": "Fayetteville, AR"
+  }
+ },
+ "check_date": "2026-10-28",
+ "rankings": [
+  {
+   "keyword": "van conversion fayetteville ar",
+   "group": "Place names",
+   "web": 1,
+   "map": 2,
+   "page": "/recreational-vans/campervans-rental",
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "OZK Customs"
+   ],
+   "page_title": "campervans rental"
+  },
+  {
+   "keyword": "van conversion arkansas",
+   "group": "Place names",
+   "web": 7,
+   "map": 2,
+   "page": "/recreational-vans/conversion-van-builders",
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "OZK Customs",
+    "Superior Van & Mobility"
+   ],
+   "page_title": "conversion van builders || OZK Customs"
+  },
+  {
+   "keyword": "van conversion bentonville",
+   "group": "Place names",
+   "web": 14,
+   "map": 2,
+   "page": "/recreational-vans/campervans-rental",
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "OZK Customs",
+    "Redpoint Conversions"
+   ],
+   "page_title": "campervans rental"
+  },
+  {
+   "keyword": "van conversion near me",
+   "group": "Place names",
+   "web": null,
+   "map": 2,
+   "page": null,
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "OZK Customs"
+   ],
+   "page_title": null
+  },
+  {
+   "keyword": "van upfitter",
+   "group": "Full builds",
+   "web": 15,
+   "map": 2,
+   "page": "/recreational-vans/van-upfitters",
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "OZK Customs",
+    "Integrity Upfitters, LLC"
+   ],
+   "page_title": null
+  },
+  {
+   "keyword": "adventure van builder",
+   "group": "Full builds",
+   "web": null,
+   "map": 3,
+   "page": null,
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "Ozark Mountain Adventure Vans",
+    "OZK Customs"
+   ],
+   "page_title": null
+  },
+  {
+   "keyword": "custom van builder",
+   "group": "Full builds",
+   "web": 18,
+   "map": 3,
+   "page": "/",
+   "panel": false,
+   "map_leaders": [
+    "Open Road",
+    "Next Chapter Camper Vans",
+    "OZK Customs"
+   ],
+   "page_title": "Custom Van Conversions in Arkansas | OZK Customs"
+  },
+  {
+   "keyword": "van lift kit installation",
+   "group": "Install services",
+   "web": null,
+   "map": 3,
+   "page": null,
+   "panel": false,
+   "map_leaders": [
+    "4 Wheel Concepts",
+    "Starwood Custom Vehicles",
+    "OZK Customs"
+   ],
+   "page_title": null
+  },
+  {
+   "keyword": "camper van builder northwest arkansas",
+   "group": "Place names",
+   "web": 6,
+   "map": null,
+   "page": "/recreational-vans/custom-build-van",
+   "panel": false,
+   "map_leaders": [],
+   "page_title": "Custom Van Builds for Adventure & Off-Grid Living | OZK Customs"
+  },
+  {
+   "keyword": "van conversion",
+   "group": "Full builds",
+   "web": 13,
+   "map": null,
+   "page": "/recreational-vans-directory/make-model",
+   "panel": false,
+   "map_leaders": [],
+   "page_title": "Van Make & Model Guide | OZK Customs Adventure Builds"
+  },
+  {
+   "keyword": "van heater installation",
+   "group": "Install services",
+   "web": 13,
+   "map": null,
+   "page": "/recreational-vans/van-heater-installation-cost",
+   "panel": true,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "camper van conversion",
+   "group": "Full builds",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": true,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "commercial van upfitting",
+   "group": "Commercial",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "custom van builds",
+   "group": "Full builds",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": true,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "ford transit van conversion",
+   "group": "By van model",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "promaster van conversion",
+   "group": "By van model",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "quigley 4x4 conversion",
+   "group": "Install services",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "sprinter van conversion",
+   "group": "By van model",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "van compass installer",
+   "group": "Install services",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "van electrical system installation",
+   "group": "Install services",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": true,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "van solar installation",
+   "group": "Install services",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "van suspension upgrade",
+   "group": "Install services",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": false,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "van window installation",
+   "group": "Install services",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": true,
+   "map_leaders": [],
+   "page_title": null
+  },
+  {
+   "keyword": "work van upfitter",
+   "group": "Commercial",
+   "web": null,
+   "map": null,
+   "page": null,
+   "panel": true,
+   "map_leaders": [],
+   "page_title": null
+  }
+ ],
+ "heat_maps": [
+  {
+   "keyword": "van conversion",
+   "size": 7,
+   "step_miles": 4.0,
+   "points": [
+    {
+     "row": 0,
+     "col": 0,
+     "lat": 36.38295,
+     "lng": -94.35603,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 0,
+     "col": 1,
+     "lat": 36.38295,
+     "lng": -94.28418,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 0,
+     "col": 2,
+     "lat": 36.38295,
+     "lng": -94.21234,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 0,
+     "col": 3,
+     "lat": 36.38295,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 0,
+     "col": 4,
+     "lat": 36.38295,
+     "lng": -94.06864,
+     "position": 2,
+     "leader": "Lake Country RV, Inc.",
+     "status": "checked"
+    },
+    {
+     "row": 0,
+     "col": 5,
+     "lat": 36.38295,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 0,
+     "col": 6,
+     "lat": 36.38295,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 0,
+     "lat": 36.32498,
+     "lng": -94.35603,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 1,
+     "lat": 36.32498,
+     "lng": -94.28418,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 2,
+     "lat": 36.32498,
+     "lng": -94.21234,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 3,
+     "lat": 36.32498,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 4,
+     "lat": 36.32498,
+     "lng": -94.06864,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 5,
+     "lat": 36.32498,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 1,
+     "col": 6,
+     "lat": 36.32498,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 0,
+     "lat": 36.26701,
+     "lng": -94.35603,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 1,
+     "lat": 36.26701,
+     "lng": -94.28418,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 2,
+     "lat": 36.26701,
+     "lng": -94.21234,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 3,
+     "lat": 36.26701,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 4,
+     "lat": 36.26701,
+     "lng": -94.06864,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 5,
+     "lat": 36.26701,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 2,
+     "col": 6,
+     "lat": 36.26701,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 0,
+     "lat": 36.20904,
+     "lng": -94.35603,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 1,
+     "lat": 36.20904,
+     "lng": -94.28418,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 2,
+     "lat": 36.20904,
+     "lng": -94.21234,
+     "position": 2,
+     "leader": "Superior Van & Mobility",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 3,
+     "lat": 36.20904,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 4,
+     "lat": 36.20904,
+     "lng": -94.06864,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 5,
+     "lat": 36.20904,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 3,
+     "col": 6,
+     "lat": 36.20904,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 0,
+     "lat": 36.15107,
+     "lng": -94.35603,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 1,
+     "lat": 36.15107,
+     "lng": -94.28418,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 2,
+     "lat": 36.15107,
+     "lng": -94.21234,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 3,
+     "lat": 36.15107,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 4,
+     "lat": 36.15107,
+     "lng": -94.06864,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 5,
+     "lat": 36.15107,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 4,
+     "col": 6,
+     "lat": 36.15107,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 0,
+     "lat": 36.0931,
+     "lng": -94.35603,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 1,
+     "lat": 36.0931,
+     "lng": -94.28418,
+     "position": 2,
+     "leader": "Open Road",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 2,
+     "lat": 36.0931,
+     "lng": -94.21234,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 3,
+     "lat": 36.0931,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 4,
+     "lat": 36.0931,
+     "lng": -94.06864,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 5,
+     "lat": 36.0931,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 5,
+     "col": 6,
+     "lat": 36.0931,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 0,
+     "lat": 36.03513,
+     "lng": -94.35603,
+     "position": 2,
+     "leader": "Open Road",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 1,
+     "lat": 36.03513,
+     "lng": -94.28418,
+     "position": 2,
+     "leader": "Open Road",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 2,
+     "lat": 36.03513,
+     "lng": -94.21234,
+     "position": 2,
+     "leader": "Open Road",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 3,
+     "lat": 36.03513,
+     "lng": -94.14049,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 4,
+     "lat": 36.03513,
+     "lng": -94.06864,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 5,
+     "lat": 36.03513,
+     "lng": -93.9968,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    },
+    {
+     "row": 6,
+     "col": 6,
+     "lat": 36.03513,
+     "lng": -93.92495,
+     "position": 1,
+     "leader": "OZK Customs",
+     "status": "checked"
+    }
+   ]
+  }
+ ],
+ "landmarks": [
+  {
+   "label": "Fayetteville",
+   "lat": 36.0626,
+   "lng": -94.1574
+  },
+  {
+   "label": "Springdale",
+   "lat": 36.1867,
+   "lng": -94.1288
+  },
+  {
+   "label": "Rogers",
+   "lat": 36.3349,
+   "lng": -94.1194
+  },
+  {
+   "label": "Bentonville",
+   "lat": 36.3729,
+   "lng": -94.2088
+  }
+ ],
+ "maps_competitors": {
+  "check_date": "2026-10-28",
+  "keyword": "van conversion",
+  "from": "shop pin",
+  "cost": 0.002,
+  "listings": [
+   {
+    "rank": 1,
+    "title": "OZK Customs",
+    "category": "RV repair shop",
+    "rating": 4.9,
+    "reviews": 32,
+    "domain": "www.ozkcustoms.com",
+    "city": "Fayetteville"
+   },
+   {
+    "rank": 2,
+    "title": "Open Road",
+    "category": "Manufacturer",
+    "rating": 4.9,
+    "reviews": 13,
+    "domain": "www.openroad.cool",
+    "city": "Fayetteville"
+   },
+   {
+    "rank": 3,
+    "title": "Superior Van & Mobility",
+    "category": "Mobility equipment supplier",
+    "rating": 4.6,
+    "reviews": 70,
+    "domain": "superiorvan.com",
+    "city": "Springdale"
+   },
+   {
+    "rank": 4,
+    "title": "Starwood Custom Vehicles",
+    "category": "Truck accessories store",
+    "rating": 4.7,
+    "reviews": 332,
+    "domain": "www.starwood-customs.com",
+    "city": "Springdale"
+   },
+   {
+    "rank": 5,
+    "title": "Sugarbear Express RV Rentals LLC",
+    "category": "Recreational vehicle rental agency",
+    "rating": 5,
+    "reviews": 167,
+    "domain": "www.sugarbearexpressrv.com",
+    "city": "Springdale"
+   },
+   {
+    "rank": 6,
+    "title": "Moix RV - McGaugh Outpost",
+    "category": "RV dealer",
+    "rating": 4.4,
+    "reviews": 238,
+    "domain": "www.moixrvnwa.com",
+    "city": "Springdale"
+   },
+   {
+    "rank": 7,
+    "title": "ARK-TEN RV Excursions, LLC",
+    "category": "Recreational vehicle rental agency",
+    "rating": 5,
+    "reviews": 11,
+    "domain": "www.arktenexcursions.com",
+    "city": "Cave Springs"
+   },
+   {
+    "rank": 8,
+    "title": "Tomahawk Truck Coatings llc",
+    "category": "Truck accessories store",
+    "rating": 5,
+    "reviews": 13,
+    "domain": "patriotlinerofnwa.com",
+    "city": "Springdale"
+   },
+   {
+    "rank": 9,
+    "title": "Connected Correctly, LLC",
+    "category": "Towing equipment provider",
+    "rating": 5,
+    "reviews": 61,
+    "domain": "www.connectedcorrectly.com",
+    "city": "Lowell"
+   },
+   {
+    "rank": 10,
+    "title": "Ozark Adventure Sprinters",
+    "category": "Van rental agency",
+    "rating": 5,
+    "reviews": 1,
+    "domain": "ozarksprinters.com",
+    "city": "Rogers"
+   }
+  ]
+ },
+ "ai_answers": [
+  {
+   "check_date": "2026-10-28",
+   "platform": "chat_gpt",
+   "model": "gpt-5.5-2026-04-23",
+   "question": "Who are the best custom van builders in Northwest Arkansas?",
+   "names_client": true,
+   "first_name_used": "OZK Customs",
+   "cites_client_site": true,
+   "sources_cited": 3,
+   "cited_domains": [
+    "ozkcustoms.com",
+    "openroad.cool",
+    "raptorcentral.com"
+   ],
+   "cost": 0.10074,
+   "question_number": 1,
+   "businesses_named": [
+    "OZK Customs",
+    "Open Road",
+    "Starwood"
+   ],
+   "named_first": "OZK Customs"
+  },
+  {
+   "check_date": "2026-10-28",
+   "platform": "gemini",
+   "model": "gemini-3.6-flash",
+   "question": "Who are the best custom van builders in Northwest Arkansas?",
+   "names_client": true,
+   "first_name_used": "OZK Customs",
+   "cites_client_site": true,
+   "sources_cited": 4,
+   "cited_domains": [
+    "ozkcustoms.com",
+    "vanlifetrader.com",
+    "ozkvans.com",
+    "openroad.cool"
+   ],
+   "cost": 0.031326,
+   "question_number": 1,
+   "businesses_named": [
+    "OZK Customs",
+    "Open Road"
+   ],
+   "named_first": "OZK Customs"
+  },
+  {
+   "check_date": "2026-10-28",
+   "platform": "gemini",
+   "model": "gemini-3.6-flash",
+   "question": "Where can I get a camper van conversion near Bentonville, Arkansas?",
+   "names_client": true,
+   "first_name_used": "OZK Customs",
+   "cites_client_site": true,
+   "sources_cited": 7,
+   "cited_domains": [
+    "ozkcustoms.com",
+    "vanlifetrader.com",
+    "ozkvans.com",
+    "openroad.cool",
+    "4wheelconcepts.com",
+    "starwood-customs.com",
+    "thevansmith.com"
+   ],
+   "cost": 0.031145,
+   "question_number": 2,
+   "businesses_named": [
+    "OZK Customs",
+    "Open Road",
+    "4 Wheel Concepts",
+    "Starwood",
+    "The Vansmith"
+   ],
+   "named_first": "OZK Customs"
+  },
+  {
+   "check_date": "2026-10-28",
+   "platform": "gemini",
+   "model": "gemini-3.6-flash",
+   "question": "Who can install a Quigley 4x4 conversion or van lift kit in Arkansas?",
+   "names_client": true,
+   "first_name_used": "OZK Customs",
+   "cites_client_site": true,
+   "sources_cited": 10,
+   "cited_domains": [
+    "ozkcustoms.com",
+    "ozkvans.com",
+    "openroad.cool",
+    "reddit.com",
+    "starwood-customs.com",
+    "4wheelconcepts.com",
+    "mudconnectionlr.com",
+    "raisedrightoffroad.com",
+    "quigley4x4.com",
+    "youtube.com"
+   ],
+   "cost": 0.04589475,
+   "question_number": 3,
+   "businesses_named": [
+    "OZK Customs",
+    "OZK Vans",
+    "Open Road",
+    "Starwood",
+    "4 Wheel Concepts",
+    "Mud Connection",
+    "Raised Right"
+   ],
+   "named_first": "OZK Customs"
+  },
+  {
+   "check_date": "2026-10-28",
+   "platform": "gemini",
+   "model": "gemini-3.6-flash",
+   "question": "Which companies build RVIA certified camper vans wholesale for RV dealers?",
+   "names_client": false,
+   "first_name_used": "",
+   "cites_client_site": false,
+   "sources_cited": 7,
+   "cited_domains": [
+    "rv-pro.com",
+    "titanvans.com",
+    "automotivedesignsandfab.com",
+    "recnationstorage.com",
+    "thefitrv.com",
+    "offhighwayvan.com",
+    "dmvans.com"
+   ],
+   "cost": 0.032442,
+   "question_number": 4,
+   "businesses_named": [
+    "Winnebago",
+    "Thor"
+   ],
+   "named_first": "Winnebago"
+  }
+ ],
+ "name_check": [
+  {
+   "check_date": "2026-10-28",
+   "source": "Google Maps",
+   "url": "https://www.google.com/maps/place/OZK+Customs",
+   "name_shown": "OZK Customs",
+   "address_shown": "6159 E Huntsville Rd Fayetteville AR 72701",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "ozkcustoms.com",
+   "category_shown": "RV repair shop",
+   "matches_shop": "yes",
+   "notes": "Only Maps listing for either brand. 4.9 stars from 32 reviews."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "ozkcustoms.com (home and about)",
+   "url": "https://www.ozkcustoms.com/",
+   "name_shown": "OZK Customs",
+   "address_shown": "6159 E Huntsville Rd Fayetteville AR 72701",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "n/a",
+   "category_shown": "n/a",
+   "matches_shop": "yes",
+   "notes": "Schema markup: LocalBusiness and Organization named OZK Customs, same street address."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "ozkvans.com (home and contact)",
+   "url": "https://www.ozkvans.com/",
+   "name_shown": "OZK Vans; footer says Ozark Mountain Van Company",
+   "address_shown": "Fayetteville AR (city only)",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "none to ozkcustoms.com",
+   "category_shown": "n/a",
+   "matches_shop": "partial",
+   "notes": "Street address appears only on the About page."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "ozkvans.com (about)",
+   "url": "https://www.ozkvans.com/about",
+   "name_shown": "OZK Vans; footer says Ozark Mountain Van Company",
+   "address_shown": "6159 E Huntsville Rd Fayetteville AR 72701",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "none to ozkcustoms.com",
+   "category_shown": "n/a",
+   "matches_shop": "yes",
+   "notes": "Social links point to the ozkcustoms accounts."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "Facebook",
+   "url": "https://www.facebook.com/ozkcustoms",
+   "name_shown": "OZK Vans",
+   "address_shown": "Fayetteville AR (city only)",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "ozkcustoms.com",
+   "category_shown": "Recreational Vehicle Dealership",
+   "matches_shop": "partial",
+   "notes": "URL handle is ozkcustoms, page name is OZK Vans, email is info@ozkvans.com, website is ozkcustoms.com. 432 followers."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "Instagram",
+   "url": "https://www.instagram.com/ozkcustoms/",
+   "name_shown": "OZK Customs",
+   "address_shown": "none",
+   "phone_shown": "none",
+   "website_linked": "ozkcustoms.com",
+   "category_shown": "n/a",
+   "matches_shop": "n/a",
+   "notes": "About 1.9k followers."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/@ozkcustoms3506",
+   "name_shown": "OZK Customs",
+   "address_shown": "Fayetteville Arkansas (in description)",
+   "phone_shown": "none",
+   "website_linked": "not checked",
+   "category_shown": "n/a",
+   "matches_shop": "n/a",
+   "notes": "Handle has numbers (ozkcustoms3506)."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "Yelp",
+   "url": "https://www.yelp.com/biz/ozk-customs-fayetteville",
+   "name_shown": "OZK Customs",
+   "address_shown": "6159 E Huntsville Rd Fayetteville AR",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "not checked",
+   "category_shown": "Auto Customization",
+   "matches_shop": "yes",
+   "notes": "2 reviews."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "Yellow Pages",
+   "url": "https://www.yellowpages.com/fayetteville-ar/mip/ozark-mountain-van-company-577552720",
+   "name_shown": "Ozark Mountain Van Company",
+   "address_shown": "6159 E Huntsville Rd Fayetteville AR 72701",
+   "phone_shown": "(479) 326-9200",
+   "website_linked": "none",
+   "category_shown": "Van Dealers",
+   "matches_shop": "yes",
+   "notes": "No website link."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "Indeed",
+   "url": "https://www.indeed.com/cmp/Ozark-Mountain-Van-Company",
+   "name_shown": "Ozark Mountain Van Company",
+   "address_shown": "none on profile",
+   "phone_shown": "none",
+   "website_linked": "none",
+   "category_shown": "n/a",
+   "matches_shop": "n/a",
+   "notes": "Job board profile."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "CareerPlug",
+   "url": "https://ozark-mountain-van-company.careerplug.com/",
+   "name_shown": "Ozark Mountain Van Company",
+   "address_shown": "none",
+   "phone_shown": "none",
+   "website_linked": "none",
+   "category_shown": "n/a",
+   "matches_shop": "n/a",
+   "notes": "Job board."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "ZipRecruiter",
+   "url": "https://www.ziprecruiter.com/c/Ozark-Mountain-Van-Company",
+   "name_shown": "Ozark Mountain Van (search result title)",
+   "address_shown": "Fayetteville AR",
+   "phone_shown": "not checked",
+   "website_linked": "not checked",
+   "category_shown": "n/a",
+   "matches_shop": "n/a",
+   "notes": "Page blocked automated reading; name taken from the search result title only."
+  },
+  {
+   "check_date": "2026-10-28",
+   "source": "Greater Bentonville chamber",
+   "url": "https://business.greaterbentonville.com/list/member/ozark-mountain-van-company-fayetteville-9327",
+   "name_shown": "Ozark Mountain Van Company (search result title)",
+   "address_shown": "not checked",
+   "phone_shown": "not checked",
+   "website_linked": "not checked",
+   "category_shown": "n/a",
+   "matches_shop": "n/a",
+   "notes": "Listing shows in search results but the domain did not resolve on Oct 27 or Oct 28."
+  }
+ ],
+ "brand_searches": {
+  "check_date": "2026-10-28",
+  "tool": "Google Search in the built-in browser, signed out, hl=en, gl=us, pws=0",
+  "note": "One browser, one location, one day. Personalization off, but results still vary by place and time.",
+  "searches": [
+   {
+    "query": "OZK",
+    "top_results": [
+     "Bank OZK (8 of the top 8 organic results: Bank OZK site, social profiles, stock quotes, app listing)"
+    ],
+    "ozk_company_in_top_8": false
+   },
+   {
+    "query": "OZK Vans",
+    "top_results": [
+     "ozkvans.com: OZK Vans | RVIA-Certified Van Manufacturer for Dealers",
+     "ozkcustoms.com: OZK Customs: Custom Van Conversions in Arkansas",
+     "Facebook: OZK Vans | Fayetteville AR"
+    ],
+    "ozk_company_in_top_8": true,
+    "also": [
+     "Sponsored result from OZK Customs on the brand name",
+     "OZK Customs Maps panel: 4.9 from 32 reviews, RV repair shop",
+     "Vans shoe brand shopping filters above the results"
+    ]
+   },
+   {
+    "query": "ozk van",
+    "top_results": [
+     "ozkvans.com: OZK Vans | RVIA-Certified Van Manufacturer for Dealers",
+     "ozkcustoms.com: OZK Customs: Custom Van Conversions in Arkansas",
+     "Facebook: OZK Vans | Fayetteville AR"
+    ],
+    "ozk_company_in_top_8": true
+   }
+  ],
+  "cross_links": {
+   "checked": "home, about and contact pages of each site, raw HTML, Oct 28",
+   "ozkcustoms_links_to_ozkvans": false,
+   "ozkvans_links_to_ozkcustoms": false,
+   "note": "ozkvans.com links to the ozkcustoms social accounts, not to ozkcustoms.com"
+  }
+ },
+ "basemap": {
+  "note": "Census TIGER shapes left out of the sample to keep it small. build_basemap.py recreates them."
+ },
+ "crawl": {
+  "summary": {
+   "check_date": "2026-10-28",
+   "origin": "https://www.ozkcustoms.com",
+   "sitemap_urls": 2080,
+   "pages_checked": 2080,
+   "status_codes": {
+    "200": 2080
+   },
+   "sitemap_urls_that_redirect": 94,
+   "missing_title": 0,
+   "missing_description": 0,
+   "title_over_60": 102,
+   "description_over_160": 707,
+   "pages_sharing_a_title": 0,
+   "duplicate_title_groups": 0,
+   "pages_sharing_a_description": 0,
+   "no_h1": 0,
+   "more_than_one_h1": 0,
+   "noindex": 0,
+   "canonical_elsewhere": 0,
+   "under_300_words": 56,
+   "titles_without_business_name": 1699,
+   "all_lowercase_titles": 591,
+   "linked_urls_checked": 476,
+   "broken_internal_links": 122
+  },
+  "duplicate_titles": [],
+  "broken_links": [
+   {
+    "url": "https://www.ozkcustoms.com/products/espar-heater",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/products/maxxair"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-adventure-vans/towables",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/overland-rigs/custom-overland-upfit"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-adventure-vans/custom-van-build",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/overland-rigs/custom-overland-upfit"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/promaster-159-camper-build",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/make-model"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/promaster-159-extended-layouts",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/make-model"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/promaster-136-camper-build",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/make-model"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/4x4-sprinter-camper-van-for-sale",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/make-model"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/ram-promaster-van",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/make-model"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/4x4-camper-van-guide",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/off-road-overland"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/recreational-vans/4x4-motorhome-for-sale",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans-directory/off-road-overland"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-wife-components-2019-sprinter-headliner-shelf",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/ozk-customs-cabinets",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-galley-cabinets",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-wall-cabinets",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-transit-headliner-shelf",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/adventure-wagon-large-and-mini-mule-bag",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-van-co-24-or-48-upper-cabinet",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-van-co-galley-cabinet",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flarespace-organizer-bags",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-vanco-sprinter-headliner-shelf",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-sprinter-headliner-shelf",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/cabinets-storage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/zamp-solar-obsidian-solar-panel-kits",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/electrical"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/goal-zero-yeti-power-systems",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/electrical"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/victron-energy-power-system",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/electrical"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/goal-zero-boulder-solar-briefcase",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/electrical"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/aluminess-rear-door-tire-and-box-rack-for-sprinter-and-transit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-compass-rear-tug-step-sprinter",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/method-701-bead-grip-wheels-for-sprinter",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/aluminess-saved-by-the-tire-bundle",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/aluminess-touring-side-steps-for-sprinter-and-transit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/aluminess-deluxe-explorer-box-bundle-with-mounting-panel",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/warn-industries-winch-evo-12s",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/cooper-discoverer-at3-tire-options",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-van-side-steps",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-nomad-front-bumper",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-driftr-ladder",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-storyteller-ladder",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/aluminess-rear-door-base-rack",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-pathfinder-prowlr-9-led-driving-light-amber",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-van-co-sprinter-side-steps",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-rear-nomad-bumper",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/aluminess-transit-or-sprinter-rear-door-vertical-bike-rack",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-compass-stage-4-3-suspension-system",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/black-rhino-arsenal-wheels",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-vans-large-expedition-cargo-box",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-pathfinder-double-or-single-row-light-bar",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rigid-industries-light-bar",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flarespace-nvader-rack",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/s-and-b-47-gallon-sprinter-fuel-tank",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-driftr-roof-rack",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-vans-b-2-bike-carrier-for-sprinter-or-transit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/agile-offroad-sprinter-no-rub-fender-guards",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-vans-monster-storage-box",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-scout-front-bumper",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-vans-sherpa-cargo-carrier",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rigid-industries-scene-led-light",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/pathfinder-surface-mount-2-pod-or-spotlight-pair",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-vans-talon-and-mojo-wheels",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/fiamma-f45s-manual-awning-10-11-5-13-width-options",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-van-co-sprinter-rear-step",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-compass-winch-bumper-with-optional-nerf-bar",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-compass-stage-6-3-system-2-lift-kit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/owl-vans-pismo-front-bumper-for-transit-and-sprinter",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/quigley-4x4-suspension-lift-kit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/kumho-road-venture-at52-tires",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/exterior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/isotherm-65-85-cruise-or-drawer-refrigerator",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/food-beverage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/dometic-cfx3-95dz-75dz-100",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/food-beverage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/vitrifrigo-stainless-steel-camper-fridge-and-freezer",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/food-beverage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/dometic-induction-cooktop-dual-burner",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/food-beverage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/dometic-square-rv-kitchen-sink",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/food-beverage"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/ozk-customs-fixed-panel-wall-kit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/interior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/amf-bruns-smartfloor",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/interior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/ozk-customs-floors",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/interior-mods",
+     "https://www.ozkcustoms.com/products/2tec2-vinyl-woven-flooring"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/lagun-table-mount-system",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/interior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-sprinter-sliding-door-floor-extension",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/interior-mods"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/adventure-wagon-fixed-or-modular-wall-kits-for-sprinter-and-transit-high-roof",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/interior-mods",
+     "https://www.ozkcustoms.com/products/adventure-wagon-moab-elevator-camper-van-bed"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/about-freedman-seating",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/manufacturer-pages"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rigid-industries",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/manufacturer-pages"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/amf-bruns",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/manufacturer-pages"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/agile-offroad",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/manufacturer-pages"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/backwoods-adventure-mods",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/manufacturer-pages"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-van-co",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/manufacturer-pages"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-76-or-58-sleeper-sofa",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/fms-seating-eleganza-venezia-seat",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/scheel-mann-vario-f-seat",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/freedman-seating-3-pt-spacesaver-foldaway",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flatline-van-co-3-panel-fixed-bed-system-sprinter-and-transit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/amf-bruns-smartseat",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/jmg-systems-20-nex-gen-swivel-captain-chair",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-land-single-or-double-captains-chairs",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/scopema-altair-3p-tri-fold-bench-seat",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-land-triple-bench-seat",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/freedman-seating-go-es-spacesaver-foldaway",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rb-components-6-ft-adjustable-panel-bed-kit-universal",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/seating-beds"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/espar-am3-b4l-airtronic-gas-4-kw-12v-heater-transit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/temperature-management"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/dometic-penguin-ii-13-5k",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/temperature-management"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/maxxair-maxxfan-deluxe-7500k-and-6200k",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/temperature-management"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/espar-s2-d2l-airtronic-2-2-kw-12v-diesel-sprinter-kit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/temperature-management"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/joolca-hottap-v2-essentials-portable-hot-water-kit",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/agile-offroad-24-or-36-gallon-wheel-well-water-tank",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/rixen-12v-hydronic-heating-system",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-wife-components-rear-door-privacy-curtain",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/tetravan-folding-shower",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/tetravan-in-floor-shower-pan",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/nw-conversions-undercarriage-water-tanks",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/van-wife-components-enclosed-shower",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/bosch-7-gallon-point-of-use-water-heater",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/ozk-custom-water-setup",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/laveo-dry-flush-toilet",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/espar-12v-hydronic-heating-system",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/water"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/flarespace-flares",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/windows"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/products/window-options-and-information",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/product-directory/windows"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/services/climate-comfort",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/services/exterior-armoring",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/services/quigley-q-lift",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/builds/mobile-pet-services",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/platforms/promaster",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/builds/lifestyle",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/services/interior-packages",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/builds/mobile-services",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/platforms/sprinter",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/builds/mobile-dog-grooming"
+    ]
+   },
+   {
+    "url": "https://www.ozkcustoms.com/mainstream-vans",
+    "status": 404,
+    "linked_from": [
+     "https://www.ozkcustoms.com/recreational-vans/camper-van-builders-near-me"
+    ]
+   }
+  ],
+  "sections": {
+   "/recreational-vans/...": {
+    "pages": 1003,
+    "under_300_words": 2
+   },
+   "/overland-rigs/...": {
+    "pages": 875,
+    "under_300_words": 0
+   },
+   "/products/...": {
+    "pages": 79,
+    "under_300_words": 35
+   },
+   "/builds/...": {
+    "pages": 54,
+    "under_300_words": 0
+   },
+   "/recreational-vans-directory/...": {
+    "pages": 20,
+    "under_300_words": 10
+   },
+   "/product-directory/...": {
+    "pages": 10,
+    "under_300_words": 9
+   },
+   "/van/...": {
+    "pages": 10,
+    "under_300_words": 0
+   },
+   "/platforms/...": {
+    "pages": 3,
+    "under_300_words": 0
+   },
+   "/": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/quigley-trail": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/interior-packages": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/climate-comfort": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/power-electrical": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/exterior-mods": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/suspension-lifts": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/beds-galleys-living": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/van-conversion-cost-guide": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/about": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/platforms": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/full-custom-builds": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/individual-installs": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/builds": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/overland-rigs": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/recreational-vans": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/service-areas": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/van-sourcing": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/get-your-van": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/van-guides": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/van-life-styles": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/vans-for-sale": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/rigs-for-sale": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/overland-directory": {
+    "pages": 1,
+    "under_300_words": 0
+   },
+   "/recreational-vans-directory": {
+    "pages": 1,
+    "under_300_words": 1
+   },
+   "/product-directory": {
+    "pages": 1,
+    "under_300_words": 1
+   }
+  },
+  "redirects": [
+   {
+    "from": "/recreational-vans/12v-heated-blanket",
+    "to": "/climate-comfort"
+   },
+   {
+    "from": "/recreational-vans/4-person-camper-van",
+    "to": "/builds/4-person-camper-van"
+   },
+   {
+    "from": "/recreational-vans/48v-van-electrical-system",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/7-sleeper-rv",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/9-passenger-conversion-van-for-sale",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/aerogel-insulation-panels",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/anl-fuses",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/are-camper-vans-hoa-friendly",
+    "to": "/"
+   },
+   {
+    "from": "/recreational-vans/battery-bank-size-for-ac",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/battery-box-ventilation",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/best-dog-for-van-life",
+    "to": "/recreational-vans-directory/pets"
+   },
+   {
+    "from": "/recreational-vans/best-van-for-tall-people",
+    "to": "/builds/best-van-for-tall-people"
+   },
+   {
+    "from": "/recreational-vans/bmw-camper",
+    "to": "/"
+   },
+   {
+    "from": "/recreational-vans/box-truck-camper-conversion",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/box-truck-rv-conversion-for-sale",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/cad-camper-van-design",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/campervan-interior-design-ideas",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/can-i-stand-up-in-a-low-roof-van",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/can-i-use-a-microwave-in-camper-van",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/co-propane-detector-placement",
+    "to": "/climate-comfort"
+   },
+   {
+    "from": "/recreational-vans/diesel-heater-troubleshooting",
+    "to": "/climate-comfort"
+   },
+   {
+    "from": "/recreational-vans/diy-ram-promaster-conversion-kit",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/do-camper-vans-hold-value",
+    "to": "/"
+   },
+   {
+    "from": "/recreational-vans/drop-down-tv-mount-for-vans",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/emi-interference-from-inverters",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/ex-ambulance-van-conversion",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/ford-transit-conversions-transit-trail-camper-van",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/ford-transit-layout",
+    "to": "/builds/ford-transit-layout"
+   },
+   {
+    "from": "/recreational-vans/generator-neutral-bonding",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/glycol-maintenance",
+    "to": "/climate-comfort"
+   },
+   {
+    "from": "/recreational-vans/guatemala-camper-van-trip",
+    "to": "/recreational-vans-directory/travel-guides"
+   },
+   {
+    "from": "/recreational-vans/hitch-recovery-point",
+    "to": "/exterior-mods"
+   },
+   {
+    "from": "/recreational-vans/hybrid-camper-van",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/hydronic-loop-layout",
+    "to": "/climate-comfort"
+   },
+   {
+    "from": "/recreational-vans/insulated-battery-box",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/inverter-idle-draw",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/inverter-size-for-microwave",
+    "to": "/power-electrical"
+   },
+   {
+    "from": "/recreational-vans/is-a-camper-van-considered-an-rv-legally",
+    "to": "/recreational-vans-directory/safety-compliance"
+   },
+   {
+    "from": "/recreational-vans/is-stealth-camping-illegal",
+    "to": "/builds/stealth-camping-van"
+   },
+   {
+    "from": "/recreational-vans/jeep-gladiator-camper-conversion",
+    "to": "/"
+   },
+   {
+    "from": "/recreational-vans/kia-camper-van-for-sale-in-usa",
+    "to": "/builds/kia-camper-van-for-sale-in-usa"
+   },
+   {
+    "from": "/recreational-vans/l-track-mounting-systems",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/layout-sprinter-van-conversion-floor-plans",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/mobile-barber-salon-vans",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/murphy-bed-camper-van",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/recirculating-shower-system",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/removable-insulated-window-plugs",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/silicone-collapsible-kettle",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/recreational-vans/soft-shackles",
+    "to": "/exterior-mods"
+   },
+   {
+    "from": "/overland-rigs/aluminum-flatbed-for-f550",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/amphibious-vehicle-for-sale",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/best-cars-for-overlanding",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/best-off-road-vehicle-of-all-time",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/best-off-road-vehicle-with-good-mpg",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/bulletproof-motorhome",
+    "to": "/builds/bulletproof-motorhome"
+   },
+   {
+    "from": "/overland-rigs/camper-shell-ford-ranger",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/chassis-mount-camper",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/chevy-express-van-4wd-conversion",
+    "to": "/builds/chevy-express-van-4wd-conversion"
+   },
+   {
+    "from": "/overland-rigs/cost-of-building-an-overland-truck",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/diy-truck-camper",
+    "to": "/interior-packages"
+   },
+   {
+    "from": "/overland-rigs/doomsday-rv",
+    "to": "/builds/bulletproof-motorhome"
+   },
+   {
+    "from": "/overland-rigs/eog-f550-for-sale",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/f650-motorhome",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/foamie-truck-camper",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/ford-e350-4x4-camper-van-for-sale",
+    "to": "/quigley-trail"
+   },
+   {
+    "from": "/overland-rigs/ford-excursion-overland",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/ford-expedition-overland-build",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/ford-f350-camper",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/ford-f450-camper",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/ford-van-4wd-conversion",
+    "to": "/builds/ford-van-4wd-conversion"
+   },
+   {
+    "from": "/overland-rigs/fuso-camper",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/global-expedition-vehicles",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/honda-ridgeline-camper",
+    "to": "/builds/honda-ridgeline-camper"
+   },
+   {
+    "from": "/overland-rigs/how-to-increase-ground-clearance-safely",
+    "to": "/suspension-lifts"
+   },
+   {
+    "from": "/overland-rigs/lexus-gx-550-overtrail-vs-overtrail-plus",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/man-camper-truck-price",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/military-off-road-camper",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/mitsubishi-pajero-overland-setup",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/ram-1500-camper-shell",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/ram-1500-slide-in-camper",
+    "to": "/builds/slide-in-truck-camper-dimensions"
+   },
+   {
+    "from": "/overland-rigs/scout-ii-off-road-conversion",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/slide-in-truck-camper-dimensions",
+    "to": "/builds/slide-in-truck-camper-dimensions"
+   },
+   {
+    "from": "/overland-rigs/tent-on-top-of-truck-bed",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/toyota-tundra-camper-shell",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/toyota-tundra-camper-top",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/truck-bed-camping-set-up",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/truck-bed-dog-topper",
+    "to": "/builds/truck-bed-dog-topper"
+   },
+   {
+    "from": "/overland-rigs/truck-cap-dimensions",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/truck-cap-storage-systems",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/unimog-camper-conversion",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/unimog-camper-for-sale",
+    "to": "/"
+   },
+   {
+    "from": "/overland-rigs/vintage-truck-cap",
+    "to": "/overland-rigs/commercial-truck-caps"
+   },
+   {
+    "from": "/overland-rigs/armored-rv",
+    "to": "/builds/bulletproof-motorhome"
+   },
+   {
+    "from": "/overland-rigs/flatbed-truck-campers",
+    "to": "/overland-rigs/commercial-truck-caps"
+   }
+  ]
+ },
+ "costs": {
+  "check_date": "2026-10-28",
+  "starting_balance": 5.0,
+  "balance_after": 4.56015,
+  "spent_per_balance": 0.43985,
+  "items": [
+   {
+    "check": "Rank check, 24 keywords",
+    "tool": "DataForSEO SERP API (Google organic, live advanced)",
+    "cost": 0.098,
+    "source": "rank_check.py output"
+   },
+   {
+    "check": "Maps heat map, 49 points",
+    "tool": "DataForSEO SERP API (Google Maps, live advanced)",
+    "cost": 0.098,
+    "source": "heat_map.py output"
+   },
+   {
+    "check": "Competitor ratings, 1 Maps search",
+    "tool": "DataForSEO SERP API (Google Maps, live advanced)",
+    "cost": 0.002,
+    "source": "maps-competitors.json"
+   },
+   {
+    "check": "AI answers, 5 questions",
+    "tool": "DataForSEO LLM Responses API (ChatGPT, Gemini)",
+    "cost": 0.241548,
+    "source": "ai answer files"
+   },
+   {
+    "check": "Hosted site crawl attempts (blocked)",
+    "tool": "DataForSEO On-Page API",
+    "cost": 0.0009,
+    "source": "site_audit.py output and 5-page test"
+   },
+   {
+    "check": "Site crawl from this computer",
+    "tool": "crawl_site.py",
+    "cost": 0.0,
+    "source": "free"
+   }
+  ],
+  "sum_of_items": 0.44045
+ }
+}

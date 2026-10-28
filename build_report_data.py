@@ -59,9 +59,9 @@ def main():
     folder = data_dir(client)
     d = args.date
 
-    ranks = read_json(folder / f"{d}-ranks.json")
+    ranks = read_json(folder / f"{d}-ranks.json") or []
     if not ranks:
-        sys.exit(f"No rank check saved for {d}.")
+        print(f"  no rank check saved for {d}; rankings will be empty", file=sys.stderr)
     group_of = {kw: g for g, kws in report.get("keyword_groups", {}).items() for kw in kws}
     rankings = [{"keyword": r["keyword"], "group": group_of.get(r["keyword"], "Other"), "web": r["web"],
                  "map": r["map"], "page": r["page"], "panel": r["panel"], "map_leaders": r["map_leaders"]}

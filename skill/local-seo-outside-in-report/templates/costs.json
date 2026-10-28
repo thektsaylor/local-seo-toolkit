@@ -1,0 +1,13 @@
+{
+ "check_date": "2026-01-01",
+ "starting_balance": 5.0,
+ "balance_after": 4.56,
+ "spent_per_balance": 0.44,
+ "items": [
+  {"check": "Rank check, 24 keywords", "tool": "DataForSEO SERP API (Google organic, live advanced)", "cost": 0.098, "source": "rank_check.py output"},
+  {"check": "Maps heat map, 49 points", "tool": "DataForSEO SERP API (Google Maps, live advanced)", "cost": 0.098, "source": "heat_map.py output"},
+  {"check": "Competitor ratings, 1 Maps search", "tool": "DataForSEO SERP API (Google Maps, live advanced)", "cost": 0.002, "source": "maps_competitors.py output"},
+  {"check": "AI answers, 5 questions", "tool": "DataForSEO LLM Responses API (ChatGPT, Gemini)", "cost": 0.24, "source": "ai_answers.py output"},
+  {"check": "Site crawl from this computer", "tool": "crawl_site.py", "cost": 0.0, "source": "free"}
+ ]
+}
