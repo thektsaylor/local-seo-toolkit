@@ -1,0 +1,14 @@
+# Credentials
+.env
+
+# Check results stay local. Clients' data never goes in the repo.
+data/*
+!data/.gitkeep
+
+# Real client configs stay local too. Only the example is committed.
+clients/*.json
+!clients/example.json
+
+__pycache__/
+*.pyc
+.DS_Store

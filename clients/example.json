@@ -1,0 +1,23 @@
+{
+  "name": "Example Plumbing Co",
+  "domain": "exampleplumbing.com",
+  "maps_name": "Example Plumbing Co",
+  "place_id": "",
+  "center": {
+    "lat": 36.3729,
+    "lng": -94.2088,
+    "label": "Bentonville, AR"
+  },
+  "keywords": [
+    "plumber",
+    "emergency plumber",
+    "water heater repair",
+    "drain cleaning",
+    "leak detection"
+  ],
+  "heat_map": {
+    "keywords": ["plumber"],
+    "size": 5,
+    "step_miles": 2
+  }
+}
