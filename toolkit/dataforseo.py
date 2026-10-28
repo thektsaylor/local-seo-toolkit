@@ -64,6 +64,24 @@ class DataForSEO:
         payload = self._request("GET", "/v3/appendix/user_data")
         return float(payload["tasks"][0]["result"][0]["money"]["balance"])
 
+    def _task(self, payload):
+        result_task = payload["tasks"][0]
+        with self._lock:
+            self.spent += float(result_task.get("cost") or 0)
+        if result_task["status_code"] not in (20000, 20100):  # 20100 = task created
+            raise DataForSEOError(result_task["status_code"], result_task.get("status_message"))
+        return result_task
+
+    def task_post(self, path, task):
+        """Queue one task (for example an On-Page crawl) and return its task id."""
+        return self._task(self._request("POST", path, [task]))["id"]
+
+    def results(self, path, body=None):
+        """Read results for a queued task: GET when body is None, otherwise POST the body."""
+        method, payload = ("GET", None) if body is None else ("POST", [body])
+        result = self._task(self._request(method, path, payload)).get("result") or [{}]
+        return result[0] or {}
+
     def live(self, path, task, attempts=3):
         """Post one task to a live endpoint and return its first result object."""
         for attempt in range(attempts):
@@ -79,6 +97,7 @@ class DataForSEO:
             with self._lock:
                 self.spent += float(result_task.get("cost") or 0)
             code = result_task["status_code"]
+            self.last_task = result_task  # the whole task, for callers that need more than the result
             if code == 20000:
                 return (result_task.get("result") or [{}])[0] or {}
             if code in RETRY_STATUS and not last_try:

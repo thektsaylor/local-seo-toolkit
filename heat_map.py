@@ -89,7 +89,7 @@ def main():
         sys.exit("No heat map keywords. Add heat_map.keywords to the config or pass --keyword.")
     size = args.size or client.heat_map_size
     step = args.step_miles or client.heat_map_step_miles
-    points = grid_points(client.lat, client.lng, size, step)
+    points = grid_points(client.heat_map_lat, client.heat_map_lng, size, step)
     estimate = len(points) * len(keywords) * EST_COST_PER_POINT
     print(f"{client.name} · {len(keywords)} keyword(s) · {size}x{size} grid, {step} mi apart · est. ${estimate:.2f}")
     if args.dry_run:
@@ -107,6 +107,9 @@ def main():
         rows = run_keyword(api, client, keyword, points, args.zoom, args.workers)
         print(f'\n"{keyword}"')
         print_grid(rows, size)
+        if not any(x["status"] == "checked" for x in rows):
+            print("  Every point failed, so nothing was saved for this keyword.")
+            continue
         save([{"check_date": today, **row} for row in rows], folder, f"{today}-heatmap-{slugify(keyword)}")
     print(f"\nSaved to data/{client.slug}/ · cost ${api.spent:.3f}")
 
