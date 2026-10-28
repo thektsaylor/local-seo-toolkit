@@ -7,6 +7,8 @@ Small Python scripts that check how a local business shows up on Google, using t
 - **`ai_answers.py`**: asks ChatGPT and Gemini buyer-style questions with web search on, and records whether they name and cite the business.
 - **`site_audit.py`**: a DataForSEO On-Page crawl of the website: broken pages and links, duplicate titles, missing titles and descriptions.
 - **`crawl_site.py`**: the same basics checked from your own computer, free. Use it when a site blocks hosted crawlers.
+- **`build_basemap.py`**: city limits, main roads and lakes for the heat map area, from the US Census TIGERweb service (public domain, free).
+- **`build_report_data.py`**: gathers one day's saved results into a single JSON file for a report page, so every number on the page traces back to a saved check.
 
 Each search costs a fraction of a cent, and the scripts print a short summary instead of raw results, so an AI agent running them reads a few lines instead of thousands.
 

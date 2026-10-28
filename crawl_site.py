@@ -80,13 +80,18 @@ class PageParser(HTMLParser):
             self.words += len(data.split())
 
 
-def fetch(url, timeout=20):
-    """GET a URL. Returns (status, final_url, content_type, body) and never raises."""
+def fetch(url, timeout=20, hops=5):
+    """GET a URL, following redirects. Returns (status, final_url, content_type, body) and never raises."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xml"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return resp.status, resp.geturl(), resp.headers.get("Content-Type", ""), resp.read()
     except urllib.error.HTTPError as err:
+        # Python before 3.11 doesn't follow 308 redirects, so follow them here.
+        location = err.headers.get("Location") if err.headers else None
+        if err.code in (307, 308) and location and hops > 0:
+            status, final, ctype, body = fetch(urljoin(url, location), timeout, hops - 1)
+            return status, final, ctype, body
         return err.code, url, err.headers.get("Content-Type", "") if err.headers else "", b""
     except Exception as err:  # timeouts, DNS, TLS: keep going and record it
         return None, url, "", str(err).encode()
@@ -196,7 +201,9 @@ def main():
               for u, s in link_status.items() if s is None or s >= 400]
     broken = [b for b in broken if b["linked_from"]]  # only links some page actually uses
 
-    ok = [r for r in rows if r["status"] == 200 and r["words"] is not None]
+    # content checks skip redirected URLs, or each would count as a copy of the page it points to
+    ok = [r for r in rows if r["status"] == 200 and r["words"] is not None and not r["final_url"]]
+    brand = client.maps_name.lower()
     titles = Counter(r["title"] for r in ok if r["title"])
     descriptions = Counter(r["description"] for r in ok if r["description"])
     duplicate_titles = [{"title": t, "pages": n, "urls": [r["url"] for r in ok if r["title"] == t][:5]}
@@ -221,6 +228,8 @@ def main():
         "canonical_elsewhere": sum(1 for r in ok if r["canonical"] and
                                    urldefrag(urljoin(r["url"], r["canonical"]))[0].rstrip("/") != r["url"].rstrip("/")),
         "under_300_words": sum(1 for r in ok if r["words"] < THIN_WORDS),
+        "titles_without_business_name": sum(1 for r in ok if r["title"] and brand not in r["title"].lower()),
+        "all_lowercase_titles": sum(1 for r in ok if r["title"] and r["title"] == r["title"].lower()),
         "linked_urls_checked": len(extra),
         "broken_internal_links": len(broken),
     }
