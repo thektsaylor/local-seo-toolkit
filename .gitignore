@@ -12,3 +12,6 @@ clients/*.json
 __pycache__/
 *.pyc
 .DS_Store
+
+# Private planning notes stay on this Mac
+notes/
