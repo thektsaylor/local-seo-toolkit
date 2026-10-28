@@ -1,0 +1,3 @@
+check_date,source,url,name_shown,address_shown,phone_shown,website_linked,category_shown,matches_shop,notes
+2026-01-01,Google Maps,https://www.google.com/maps/place/...,Example Plumbing Co,123 Main St Bentonville AR 72712,(479) 555-0100,exampleplumbing.com,Plumber,yes,Rating and review count go in notes.
+2026-01-01,Facebook,https://www.facebook.com/...,Example Plumbing,Bentonville AR (city only),(479) 555-0100,exampleplumbing.com,Plumbing service,partial,Page name differs from the Maps name.

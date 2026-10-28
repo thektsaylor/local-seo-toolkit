@@ -1,0 +1,10 @@
+{
+ "check_date": "2026-01-01",
+ "tool": "Google Search in a browser, signed out, hl=en, gl=us, pws=0",
+ "note": "One browser, one location, one day. Results still vary by place and time.",
+ "searches": [
+  {"query": "Example", "top_results": ["What the top results were, in order"], "business_in_top_8": false},
+  {"query": "Example Plumbing", "top_results": ["exampleplumbing.com: page title", "Facebook: page title"], "business_in_top_8": true, "also": ["Ads on the brand name, Maps panel details"]}
+ ],
+ "cross_links": {"checked": "home, about and contact pages of each site", "site_a_links_to_site_b": false, "site_b_links_to_site_a": false}
+}
