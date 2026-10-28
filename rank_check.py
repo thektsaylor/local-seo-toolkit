@@ -105,6 +105,9 @@ def main():
           f'Top 3 in Maps: {sum(1 for r in ok if r["map"] and r["map"] <= 3)} · '
           f'Not found: {sum(1 for r in ok if not r["web"] and not r["map"])} · '
           f'Failed: {len(rows) - len(ok)}')
+    # An all-failed file would become next run's baseline and show every keyword as "new".
+    if not ok:
+        sys.exit(f"Every search failed, so nothing was saved · cost ${api.spent:.3f}")
     json_path, _ = save(rows, folder, f"{today}-ranks")
     print(f"Saved {json_path.relative_to(folder.parent.parent)} · cost ${api.spent:.3f}")
 
